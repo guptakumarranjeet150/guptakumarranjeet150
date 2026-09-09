@@ -68,4 +68,3 @@
 
 - 💬 **Telegram**: [@guptakumarranjeet](https://t.me/guptakumarranjeet)
 - 📧 **Email**: [guptakumarranjeet150@gmail.com](mailto:guptakumarranjeet150@gmail.com)
-- 📍 **Location**: Kathmandu, Nepal • Available for Worldwide Remote Roles & Contracts
