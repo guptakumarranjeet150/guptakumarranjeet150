@@ -11,8 +11,6 @@
 <p align="center">
   <a href="https://github.com/stellar/soroban-examples/pull/416"><img src="https://img.shields.io/badge/Stellar%20SDF-Contributor-08B5E5?style=for-the-badge&logo=stellar&logoColor=white" /></a>
   <a href="https://github.com/guptakumarranjeet150"><img src="https://img.shields.io/badge/Status-Available%20for%20Hire-22c55e?style=for-the-badge&logo=target&logoColor=white" /></a>
-  <a href="https://t.me/guptakumarranjeet"><img src="https://img.shields.io/badge/Telegram-@guptakumarranjeet-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:guptakumarranjeet150@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <div align="center">
@@ -63,8 +61,3 @@
 </div>
 
 ---
-
-### 📬 Direct Contact & Availability
-
-- 💬 **Telegram**: [@guptakumarranjeet](https://t.me/guptakumarranjeet)
-- 📧 **Email**: [guptakumarranjeet150@gmail.com](mailto:guptakumarranjeet150@gmail.com)
